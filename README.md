@@ -120,4 +120,4 @@ This project is private and not licensed for public use.
 
 - Flutter team for the amazing framework
 - Material Design for UI inspiration
-- Apple Wallet for design inspiration
+- Different design inspiration
